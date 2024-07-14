@@ -1,0 +1,10 @@
+hello Ohio skibidi gyatt sigma rizz
+This is a sample text file.
+This file is created using FileWriter.
+
+this is demo text for file
+This is a sample text.
+from BufferedWriterExample class
+
+We have used BufferedReader to read the text from a console and,
+We have used BufferedWriter to write this text to a file.

@@ -1,0 +1,2 @@
+this is a sample text which i wrote using bufferedwriter filerwriter type instance.
+this is the appended content which i tried writing.
