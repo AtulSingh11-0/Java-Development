@@ -26,5 +26,5 @@ public class PhantomReferenceExample {
 * We then try to get the object from the PhantomReference. If the object is still available, we print the object. If the object has been garbage collected, we print a message.
 * PhantomReference is useful when you want to perform some cleanup operation when an object is garbage collected. It is useful for resource management.
  * The Employee object is garbage collected as soon as it is no longer reachable. The object is not available from the PhantomReference, so we print a message.
-* 
+*
 * */
