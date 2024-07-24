@@ -1,6 +1,5 @@
 package collectionFramework.iterator;
 
-import java.util.ArrayList;
 import java.util.Iterator;
 
 /*
